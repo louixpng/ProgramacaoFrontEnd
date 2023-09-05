@@ -1,0 +1,18 @@
+h2 {
+  color: rgb(35, 34, 32);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagem {
+  border-radius: 75px;
+  justify-content: space-between;
+}
+
+.titulo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(35, 34, 32);
+}
+
+:root {
+  background-color: rgb(233, 201, 201);
+}
